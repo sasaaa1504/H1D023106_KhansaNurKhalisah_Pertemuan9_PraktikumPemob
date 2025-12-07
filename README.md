@@ -6,7 +6,7 @@
 ---
 ## Dokumentasi
 - Demo
-<img src="https://github.com/sasaaa1504/H1D023106_KhansaNurKhalisah_Pertemuan9_PraktikumPemob/blob/main/docs/demo.gif" width="250" alt="Demo">
+![Demo](https://github.com/sasaaa1504/H1D023106_KhansaNurKhalisah_Pertemuan9_PraktikumPemob/blob/master/docs/demo.gif)
 
 ## Fitur
 1. Gallery Page - Showcase photos/images with a grid layout
